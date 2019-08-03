@@ -26,5 +26,5 @@ class Waiter
     end 
     best_tip.customer 
   end
-  end   
+  
 end
